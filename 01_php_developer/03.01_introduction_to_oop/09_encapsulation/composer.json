@@ -1,0 +1,18 @@
+{
+    "name": "rushev84/08",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/Rational.php.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Sergey Rushev",
+            "email": "rushev84@yandex.ru"
+        }
+    ],
+    "require": {}
+}

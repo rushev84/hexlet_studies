@@ -1,0 +1,19 @@
+{
+    "name": "hex/example",
+    "autoload": {
+        "files": [
+            "src/trees.php"
+        ]
+    },
+    "description": "example package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Rushev",
+            "email": "rushev84@yandex.ru"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^9.33"
+    }
+}

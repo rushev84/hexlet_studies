@@ -1,0 +1,7 @@
+Вместо
+
+return new Time($h, $m);
+
+можно использовать
+
+return new self($h, $m);

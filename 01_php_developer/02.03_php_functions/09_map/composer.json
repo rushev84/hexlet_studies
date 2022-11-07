@@ -1,0 +1,17 @@
+{
+    "name": "rushev84/22.09.16",
+    "autoload": {
+        "psr-4": {
+            "Rushev84\\220916\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey Rushev",
+            "email": "rushev84@yandex.ru"
+        }
+    ],
+    "require": {
+        "funct/funct": "^1.5"
+    }
+}
