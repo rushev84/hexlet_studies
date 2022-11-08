@@ -1,0 +1,16 @@
+{
+    "name": "hex/example",
+    "autoload": {
+    },
+    "description": "example package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Rushev",
+            "email": "rushev84@yandex.ru"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^9.33"
+    }
+}
